@@ -1,0 +1,7 @@
+{
+  "entity.bossmod.boss": "Ancient Colossus",
+  "entity.bossmod.esqueleto_oscuro": "Dark Skeleton",
+  "entity.bossmod.esqueleto_consumido": "Withered Skeleton",
+  "entity.bossmod.esqueleto_fantasma": "Ghost Skeleton",
+  "item.bossmod.boss_spawn_egg": "Ancient Colossus Spawn Egg"
+}

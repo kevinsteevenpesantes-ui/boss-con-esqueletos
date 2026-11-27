@@ -1,0 +1,7 @@
+{
+  "entity.bossmod.boss": "Coloso Ancestral",
+  "entity.bossmod.esqueleto_oscuro": "Esqueleto Oscuro",
+  "entity.bossmod.esqueleto_consumido": "Esqueleto Consumido",
+  "entity.bossmod.esqueleto_fantasma": "Esqueleto Fantasma",
+  "item.bossmod.boss_spawn_egg": "Huevo generador de Coloso Ancestral"
+}

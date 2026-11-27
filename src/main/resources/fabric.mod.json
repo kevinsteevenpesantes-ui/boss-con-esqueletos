@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "bossmod",
+  "version": "${version}",
+  "name": "Coloso Ancestral",
+  "description": "Un boss de 3 fases con ataques cada vez mas dificiles.",
+  "authors": ["Tu nombre"],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["com.example.bossmod.BossMod"],
+    "client": ["com.example.bossmod.BossModClient"]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.10",
+    "minecraft": "~1.21.4",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}
